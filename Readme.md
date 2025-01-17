@@ -1,8 +1,8 @@
-**Project Title**
+**<H1>Project Title</H1>**
 
 India Map and Graph Analysis Dashboard
 
-**Description**
+**<H2>Description</H2>**
 
 This project is a data visualization dashboard developed using Python libraries Dash, Plotly, Pandas, and NumPy. It provides an interactive platform for exploring population and demographic data for Indian states and districts. The dashboard includes two main analysis tabs:
 
@@ -10,9 +10,9 @@ Map Analysis: Displays an interactive scatter map that visualizes data attribute
 
 Graph Analysis: Shows bar charts to analyze specific parameters such as population across states or districts.
 
-**Features**
+**<H2>Features</H2>**
 
-<u>Map Analysis Tab</u>:
+<H3>(i) Map Analysis Tab:</H3>
 
 Select a state or view data for "Overall India."
 
@@ -20,12 +20,12 @@ Customize primary and secondary attributes for visualization (e.g., population, 
 
 Interactive map with markers where color indicates the primary attribute and size represents the secondary attribute.
 
-<u>Graph Analysis Tab</u>:
+<H3>(ii) Graph Analysis Tab:</H3>
 
 Select a state or view aggregated data for "Overall India."
 
 Display top 7 districts or states based on a selected attribute in a bar chart.
 
-**Author**
+**<H2>Author</H2>**<br>
 Developed by Rishit Vagh
 
